@@ -43,11 +43,14 @@ nav ul li a {
     text-decoration: none;
 }
 
-.headsection {
-    position: absolute;
+.main-image {
     height: 400px;
+    position: absolute;
     width: 100%;
     z-index: 0;
+}
+
+.pic1 {
 }
 
 .headheading {
