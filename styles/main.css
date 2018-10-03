@@ -1,8 +1,9 @@
 body {
-    font-family: sans-serif;
-    font: normal 16px/1.579em;
+    font-size: 1.75rem !important;
+    line-height: 1.6;
     font-weight: 200;
-    color: #494745;
+    font-family: sans-serif !important;
+    color: #494745 !important;
     margin: 0;
 }
 
@@ -70,8 +71,7 @@ h2 {
 }
 
 .text {
-    padding: 0, 10%;
-    font-size: 17px;
+    padding: 0, 15%;
 }
 
 div {
